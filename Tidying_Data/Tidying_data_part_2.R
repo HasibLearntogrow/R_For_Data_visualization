@@ -45,6 +45,6 @@ arrange(desc(season)) |>  #------------desending
 #After distinct: if do not show other colom then use:  .keep_all = TRUE
 #Example:
 
-distinct(season,win_by_runs)
+distinct(season,win_by_runs,.keep_all = TRUE)
 
 #----------------------------------------------------------------------------
