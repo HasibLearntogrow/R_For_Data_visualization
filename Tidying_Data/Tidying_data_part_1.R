@@ -38,7 +38,7 @@
 #This method for select and deselect colom from data set:
 #Important two parameter:  
 #  c----------------->means keep
-#   c----------------->means do not keep
+#   !c----------------->means do not keep
 #   pip operator:    \> -----this conncet two lines.This is must be use in code
 #stracture:  select(c(c1,c2,c3---------))
 
